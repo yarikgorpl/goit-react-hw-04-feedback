@@ -1,0 +1,19 @@
+.button {
+  border: 1px solid rgb(211, 211, 211);
+  border-radius: 2px;
+  padding: 2px;
+  width: 60px;
+  height: 24px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.button:hover {
+  background-color: aquamarine;
+}
+.text {
+  font-size: 14px;
+  margin: 10px 0;
+}
+.list {
+  display: flex;
+}
